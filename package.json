@@ -1,0 +1,19 @@
+{
+  "name": "proxy-tool",
+  "version": "1.0.0",
+  "description": "代理脚本工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzfc223/proxy-tool.git"
+  },
+  "author": "zzfc223 <zzfc223@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzfc223/proxy-tool/issues"
+  },
+  "homepage": "https://github.com/zzfc223/proxy-tool#readme"
+}
